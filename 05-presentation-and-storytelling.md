@@ -18,4 +18,4 @@
   - The end
 
 ### Presentation
-[Check it out here](https://github.com/dudacek/english_for_designers/blob/main/05-presentation-stoytelling/jakub-dudacek-presentation-usa.pdf)
+[Check it out here](https://github.com/edwardkelnar/english_for_designers/blob/main/english_presentation.pdf)
