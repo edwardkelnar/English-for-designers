@@ -6,6 +6,6 @@
 
 [3 - CV](https://github.com/edwardkelnar/English-for-designers/blob/main/03-curriculum-vitae.md)
 
-[4 - Voice and tone](https://github.com/edwardkelnar/English-for-designers/blob/main/04-voice-and-tone)
+[4 - Voice and tone](https://github.com/edwardkelnar/English-for-designers/blob/main/04-voice-and-tone.md)
 
 [5 - Presentation](https://github.com/edwardkelnar/English-for-designers/blob/main/05-presentation-and-storytelling.md)
