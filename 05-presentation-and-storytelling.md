@@ -18,4 +18,4 @@
   - The end
 
 ### Presentation
-[Check it out here](https://github.com/edwardkelnar/english_for_designers/blob/main/english_presentation.pdf)
+[Check it out here](https://github.com/edwardkelnar/English-for-designers/blob/main/English_presentation.pdf)
