@@ -34,4 +34,4 @@ PHONE: 724743436
 EMAIL: edward.kelnar@gmail.com
 
 ### FULL CV
-[Right here](https://github.com/edwardkelnar/English-for-designers/blob/main/English_presentation.pdf)
+[Right here](https://github.com/edwardkelnar/English-for-designers/blob/main/Eddie_CV.png)
