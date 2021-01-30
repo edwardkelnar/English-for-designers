@@ -6,3 +6,23 @@ Steve Jobs once said that good artists copy and great artists steal. It is actua
 
 In conclusion copying is how we make great art because to do something completely original is super rare. It happens one or twice in a life time if ever. If the copying or stealing is bringing something new then I think it is fine.
 
+# Voice and Tone
+
+## Writing Style
+
+- My intention is to write as honest as possible with a little twist of some originality in my tone or way of expressing myself. While also describing the subject as clear as possible.
+
+## Voice
+
+- Honest
+- Original
+- Friendly
+- Kind of fun (bring some dynamics)
+
+## Tone
+
+- I want to make you laugh but stop trying to be funny
+- Connect with anyone on some level
+- Make you interested
+- Not use the same phrases
+- But repeat what is important 
