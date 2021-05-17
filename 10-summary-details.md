@@ -11,6 +11,8 @@ HO? is a festival of music and culture that aims to raise awereness and targets 
 
 ### Moodboard
 
+<img src="moodboard.png" alt="moodboard.png" width="500"/>
+
 
 ### Keywords for my design
 - Minimalism meets brutalism
