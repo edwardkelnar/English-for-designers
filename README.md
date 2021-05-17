@@ -12,7 +12,7 @@
 
 [6 - Clarity First](https://github.com/edwardkelnar/English-for-designers/blob/main/08-clarity-first.md)
 
-[7 - Abstract draft](https://github.com/edwardkelnar/English-for-designers/blob/main/09-abstract-draft.md)
+[7 - Abstract draft](https://github.com/edwardkelnar/English-for-designers/blob/main/09-Abstract-draft.md)
 
 [8 - Summary and details](https://github.com/edwardkelnar/English-for-designers/blob/main/10-summary-details.md)
 
