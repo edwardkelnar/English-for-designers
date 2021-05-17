@@ -1,0 +1,4 @@
+# Festival Hladova Opona? 
+This thesis containes visual identity and comunication for new Czech music festival. Also addresses the issues of Covid-19 and its influence on culture and music industry in Czech republic. All based on research of other music festivals, interviews with the head of Fajn radio, Rock Café Prague and other people from this line of business. The goal of this thesis is to create, set and prepare united visual comunication of this festival and raise awearness of the issues connected with the Covid-19 situation in Czech republic. The theoretical part of this thesis introduces the theory of music festivals, graphic design, public relations and other ways of promotion. The practical part goes through the process behind the making of this festival and using all the gained knowladge in real life.
+#### Keywords
+Graphic design, visual style, identity, marketing comunication, media design & event marketing
