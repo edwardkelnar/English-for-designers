@@ -10,7 +10,7 @@
 
 [5 - Presentation](https://github.com/edwardkelnar/English-for-designers/blob/main/05-presentation-and-storytelling.md)
 
-[6 - Clarity First](https://github.com/edwardkelnar/English-for-designers/blob/main/08-clarity-first.md)
+[6 - Clarity First](https://github.com/edwardkelnar/English-for-designers/blob/main/08-Clarity-first.md)
 
 [7 - Abstract draft](https://github.com/edwardkelnar/English-for-designers/blob/main/09-Abstract-draft.md)
 
