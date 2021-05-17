@@ -10,10 +10,10 @@
 
 [5 - Presentation](https://github.com/edwardkelnar/English-for-designers/blob/main/05-presentation-and-storytelling.md)
 
-[6 - Clarity First](https://github.com/edwardkelnar/English-for-designers/blob/main/06-clarity-frist.md)
+[6 - Clarity First](https://github.com/edwardkelnar/English-for-designers/blob/main/08_clarity_frist.md)
 
-[7 - Abstract draft](https://github.com/edwardkelnar/English-for-designers/blob/main/07-abstract-draft.md)
+[7 - Abstract draft](https://github.com/edwardkelnar/English-for-designers/blob/main/09-abstract-draft.md)
 
-[8 - Summary and details](https://github.com/edwardkelnar/English-for-designers/blob/main/08-summary-and-details.md)
+[8 - Summary and details](https://github.com/edwardkelnar/English-for-designers/blob/main/10-summary-details.md)
 
-[9 - Final Presentation](https://github.com/edwardkelnar/English-for-designers/blob/main/09-final-presentation.md)
+[9 - Final Presentation](https://github.com/edwardkelnar/English-for-designers/blob/main/11-final-presentation.md)
