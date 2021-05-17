@@ -1,4 +1,4 @@
-# Hladova Opona? Festival
+# Hladova Opona Festival
 The Hladova Opona festival is a music festival that is supposed to support the local culture and their artists. Even though the main program is music the supporting program focuses on other art forms like photography, paintings ect.
 
 <details>
