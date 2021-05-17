@@ -37,7 +37,7 @@ In theoretical part of my thesis I focused on other musci festivals, Covid-19 an
 
 #### Visual identity
 
-<img src="poster_mockup_2.png" alt="poster_mockup_2.png" width="500"/>
+<img src="poster_mockup_2.jpg" alt="poster_mockup_2.jpg" width="500"/>
 
 <img src="billboard_metro.png" alt="billboard_metro.png" width="500"/>
 
